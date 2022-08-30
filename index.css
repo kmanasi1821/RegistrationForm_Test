@@ -1,0 +1,30 @@
+
+.main-container {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    height: 620px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
+}
+.img {
+    margin: 40px auto;
+    margin-left: 8px;
+    width: 340px;
+    height: 550px;
+}
+.img-container {
+    background-color: #cce6ff;
+    border-radius: 20px 0 0 20px;
+    height: 620px;
+}
+.logo-img {
+    width: 100px;
+    margin-top: 20px;
+}
+.title {
+    color: #006080;
+    font-weight:500;
+}
+.submit-btn {
+    font-size: 15px;
+}
